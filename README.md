@@ -1,9 +1,5 @@
 Martin Lačňák ukázka práce
-Dobrý den, v tomto souboru bych vám chtěl představit většinu mých projektů a zkušeností s vývojem v Unreal Engine, HTML a JS.
-
-Java + HTML + JavaScript
-Znalost jazyků, implementace ve webových aplikacích.
-Ukázka v příloze.
+Dobrý den, v tomto souboru bych vám chtěl představit většinu mých projektů a zkušeností s vývojem v Unreal Engine
 
 Unreal Engine 4.27-5
 Práce na osobních herních Templatech a komponentech.
